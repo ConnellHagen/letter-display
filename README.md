@@ -1,6 +1,6 @@
 # Letter Distribution Display
 
-A simple bar graph display comparing the frequence in which letters appear in a text.
+A simple bar graph display comparing the frequencies in which letters appear in a text.
 
 Example using Crime and Punishment (the book being used in the default configuration):
 
